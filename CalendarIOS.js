@@ -316,7 +316,11 @@ var styles = StyleSheet.create({
     borderBottomRightRadius: 2.5,
   },
   currentDay: {
-    color: 'red',
+    color: 'white',
+    backgroundColor: 'red',
+    borderRadius: 50,
+    width: 20,
+    height: 20,
   }
 });
 
